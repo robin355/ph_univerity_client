@@ -1,9 +1,10 @@
+import MainLayout from "./components/Layout/MainLayout"
 
 
 function App() {
   return (
     <>
-     <h1>Programming Hero</h1>
+    <MainLayout></MainLayout>
     </>
   )
 }
